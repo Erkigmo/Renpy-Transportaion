@@ -1,0 +1,14 @@
+{
+  "name": "renpy",
+  "version": "0.0.1",
+  "factorio_version": "1.1",
+  "title": "RenPy",
+  "author": "Erkigmo",
+  "contact": " ",
+  "homepage": " ",
+  "description": "Makes renai work with Pyanodons",
+  "dependencies": [
+    "pyalternativeenergy >= 1.1.7",
+    "RenaiTransportation"
+  ]
+}
